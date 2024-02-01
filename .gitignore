@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+
+**pycache**/
+_.pyc
+_.pyo
+\*.pyd
+
+# Local configuration file (if you're using a tool like virtualenv)
+
+.env
+
+# IDE-specific files
+
+.vscode/
+
+# Flask specific
+
+instance/
+
+# Dependency directories
+
+venv/
+env/
+
+# Compiled Python files
+
+_.pyc
+_.pyo
+\*.pyd
+
+# Egg-info
+
+\*.egg-info/
+
+# Unit test / coverage reports
+
+.coverage
+htmlcov/
+
+# Translations
+
+\*.mo
+
+# Distribution / packaging
+
+dist/
+build/
+_.egg-info/
+_.egg
+
+# Windows
+
+Thumbs.db
